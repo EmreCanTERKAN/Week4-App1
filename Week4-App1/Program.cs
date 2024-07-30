@@ -30,7 +30,7 @@ namespace MyNamespace
                 LastName = "Bozkus",
                 DogumYılı = "14.09.1992"
             };
-            Console.WriteLine($"Ögrencinin Adı {teacher.Name} Soyadı {teacher.LastName} Yaşı {teacher.DogumYılı}");
+            Console.WriteLine($"Öğretmenin Adı {teacher.Name} Soyadı {teacher.LastName} Yaşı {teacher.DogumYılı}");
 
         }
 
